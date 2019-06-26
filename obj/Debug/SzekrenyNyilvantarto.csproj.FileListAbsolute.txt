@@ -1,0 +1,16 @@
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\bin\Debug\SzekrenyNyilvantarto.exe.config
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\bin\Debug\SzekrenyNyilvantarto.exe
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\bin\Debug\SzekrenyNyilvantarto.pdb
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.csprojAssemblyReference.cache
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\MainWindow.g.cs
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\App.g.cs
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto_MarkupCompile.cache
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto_MarkupCompile.lref
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\MainWindow.baml
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.g.resources
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.Properties.Resources.resources
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.csproj.GenerateResource.cache
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.csproj.CoreCompileInputs.cache
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.exe
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.pdb
+D:\programozás\Szakdolgozat\SzekrenyNyilvantarto\obj\Debug\SzekrenyNyilvantarto.csproj.CopyComplete
